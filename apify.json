@@ -1,0 +1,8 @@
+{
+  "name": "coach-linkedin-enricher",
+  "version": "0.1",
+  "buildTag": "latest",
+  "env": {
+    "NODE_VERSION": "18"
+  }
+}
